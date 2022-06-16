@@ -1,0 +1,16 @@
+city1 city2 112
+city3 city4 222
+city3 city5 15
+city6 city1 6
+city4 city7 41
+city10 city3 30
+city4 city9 36
+city3 city2 51
+city8 city6 72
+city8 city9 16
+city10 city4 54
+city11 city2 12
+city1 city12 24
+city9 city5 45
+city7 city8 56
+END OF INPUT
